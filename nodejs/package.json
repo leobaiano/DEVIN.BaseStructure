@@ -1,5 +1,5 @@
 {
-  "name": "DEVIN Base Structure",
+  "name": "devin-ase-structure",
   "version": "1.0.0",
   "description": "Service created using DEVIN",
   "main": "src/index.js",
